@@ -1,3 +1,9 @@
+Author Remark
+-------------
+
+I pledge my honor that my application does not collect and send to me
+(or someone who has intentionally defined) any personal data of the user.
+
 Privacy Policy
 --------------
 
